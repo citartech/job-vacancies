@@ -34,7 +34,8 @@
 
 # Teste
 
-Considerando os dados disponíveis na URL -> http://www.umass.edu/microbio/rasmol/country-.txt
+Considerando os dados disponíveis na URL -> https://raw.githubusercontent.com/citartech/job-vacancies/master/assets/country-codes.txt
+
 Escreva uma aplicação com um código bem estruturado, orientado a objetos e utilizando, sempre que possível e adequado, padrões de projetos como MVC por exemplo. Busque criar uma aplicação que possibilite e facilite a implementação de testes unitários, melhor ainda seria se já viesse com alguns testes de unidade e integração e seguindo princípios como KISS e SOLID.
 
 Objetivos:
