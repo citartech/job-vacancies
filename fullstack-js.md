@@ -55,3 +55,5 @@ Use o git para o versionamento do projeto e suba em um repositório publico do g
 Faça uma breve documentação do processo para rodar a aplicação e testar seu funcionamento no arquivo README.md do repositório.
 
 Após o término, enviar o link do repositório para o e-mail rh.dev@grupocitar.com.br
+
+> ***É imprescindível o envio da pretensão salarial no e-mail.*** 
