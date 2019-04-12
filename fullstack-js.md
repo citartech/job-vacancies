@@ -11,10 +11,13 @@
 
 ## Requisitos:
 
-* NodeJs
+* NodeJs;
+* Javascript ES6;
+* VueJs 2;
+* HTML, CSS, SASS;
 * Experiência na utilização de banco de dados não relacionais, em especial MongoDb;
 * Bom domínio de testes unitários/integração usando mocha/chai;
-* Experiência na construção de Rest APIs;
+* Experiência na construção/consumo de Rest APIs;
 * Dominio do Git para versionamento de projetos;
 * Conhecimento básico em modelagem de dados, relacionais e não relacionais;
 * Noções básicas de scrum e metodologias ágeis;
@@ -23,8 +26,6 @@
 
 * Experiência na utilização do docker;
 * PHP 7+;
-* Laravel 5+;
-* Bom domínio de testes unitários/integração usando o PhpUnit;
 * MySQL;
 * Golang;
 * Microservices;
@@ -40,7 +41,7 @@ Escreva uma aplicação com um código bem estruturado, orientado a objetos e ut
 
 Objetivos:
 
-* Criar uma pagina simples com três botões: 
+* Criar uma SPA simples com três botões: 
   1. Um que direcione para uma segunda página com a listagem formatada dos Países; 
   2. Um segundo que baixe um arquivo CSV com os dados; 
   3. Um terceiro que baixe uma planilha de excel com os dados;
