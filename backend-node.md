@@ -12,6 +12,7 @@
 ## Requisitos:
 
 * NodeJs
+* Typescript
 * Experiência na utilização de banco de dados não relacionais, em especial MongoDb;
 * Bom domínio de testes unitários/integração usando mocha/chai;
 * Experiência na construção de Rest APIs;
@@ -26,7 +27,6 @@
 * Laravel 5+;
 * Bom domínio de testes unitários/integração usando o PhpUnit;
 * MySQL;
-* Golang;
 * Microservices;
 * Experiência em tecnologias de IA ou machine learning;
 * Linux;
