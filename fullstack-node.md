@@ -12,7 +12,7 @@
 ## Requisitos:
 
 * NodeJs;
-* Javascript ES6;
+* Typescript;
 * VueJs 2;
 * HTML, CSS, SASS;
 * Experiência na utilização de banco de dados não relacionais, em especial MongoDb;
@@ -27,7 +27,6 @@
 * Experiência na utilização do docker;
 * PHP 7+;
 * MySQL;
-* Golang;
 * Microservices;
 * Experiência em tecnologias de IA ou machine learning;
 * Linux;
