@@ -23,7 +23,7 @@
 ## Diferenciais:
 
 * Experiência na utilização do docker;
-* Bom domínio de testes unitários/integração usando o PhpUnit;
+* Noções de contruções de SPAs usando VueJs;
 * Postgres;
 * Microservices;
 * Experiência em tecnologias de IA ou machine learning;
