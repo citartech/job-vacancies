@@ -14,7 +14,7 @@
 * NodeJs
 * Typescript
 * Experiência na utilização de banco de dados não relacionais, em especial MongoDb;
-* Bom domínio de testes unitários/integração usando mocha/chai;
+* Bom domínio de testes unitários/integração usando mocha/chai ou jest;
 * Experiência na construção de Rest APIs;
 * Dominio do Git para versionamento de projetos;
 * Conhecimento básico em modelagem de dados, relacionais e não relacionais;
@@ -23,10 +23,8 @@
 ## Diferenciais:
 
 * Experiência na utilização do docker;
-* PHP 7+;
-* Laravel 5+;
 * Bom domínio de testes unitários/integração usando o PhpUnit;
-* MySQL;
+* Postgres;
 * Microservices;
 * Experiência em tecnologias de IA ou machine learning;
 * Linux;
